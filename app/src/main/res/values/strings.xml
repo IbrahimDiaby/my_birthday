@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatrixID</string>
+    <string name="LoginButton">Login</string>
+    <string name="SignUpButton">Sign Up</string>
+    <string name="title_activity_hbd">Happy Birthday NeoMatrixID</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
